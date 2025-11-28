@@ -11,6 +11,7 @@ A modern, high-performance cryptocurrency tracking web application built using V
 CryptoPlace provides real-time crypto prices, trending coins, detailed pages, and a clean UI — all optimized for speed and scalability.
 
 📂 Project Structure
+```bash
 CryptoPlace/
 │
 ├── dist/                     # Production build output (auto-generated)
