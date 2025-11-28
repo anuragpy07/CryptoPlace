@@ -39,7 +39,7 @@ CryptoPlace/
 └── README.md
 ```
 🚀 Features
-
+```
 • Live cryptocurrency price tracking
 
 • Trending coins section
@@ -53,7 +53,7 @@ CryptoPlace/
 • Global state management via Context API
 
 • SEO-friendly static site deployment on Vercel
-
+```
 🛠️ Tech Stack
 ```
 Framework: React + Vite
