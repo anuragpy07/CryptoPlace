@@ -114,18 +114,21 @@ const apiKey = import.meta.env.VITE_API_KEY;
 ```
 ## 📸 Screenshots
 
-### 📊 Crypto Details Page
-<img src="IMAGE_URL_HERE" alt="Crypto Details Screenshot" width="700" />
+### 🏠 Home Page
+
+<img width="1648" height="849" alt="Screenshot 2025-11-29 011047" src="https://github.com/user-attachments/assets/9610abbf-dd90-49d1-97b8-8e26bb599dd4" />
 
 ---
 
-### 🏠 Home Page (Example)
-<img src="IMAGE_URL_HERE" alt="Home Page Screenshot" width="700" />
+### 📊 Crypto List Page
+
+<img width="801" height="870" alt="Screenshot 2025-11-29 011000" src="https://github.com/user-attachments/assets/c6e7dc57-3ab4-4011-9f5e-04892d2f6156" />
 
 ---
 
-### 📈 Trending Coins Section
-<img src="IMAGE_URL_HERE" alt="Trending Coins Screenshot" width="700" />
+### 📈 Crypto Details Page
+<img width="648" height="727" alt="Screenshot 2025-11-29 011024" src="https://github.com/user-attachments/assets/816f4a76-24e1-45a7-b844-4d06b0f17628" />
+
 
 🤝 Contributing
 
