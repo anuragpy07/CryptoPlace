@@ -6,6 +6,7 @@
 <br/>
 <img width="1884" height="860" alt="Screenshot 2025-11-29 004849" src="https://github.com/user-attachments/assets/9d6d7e30-0b51-48bd-9b98-39b7dc3a8302" />
 
+
 📂 Project Structure
 ```bash
 CryptoPlace/
@@ -113,13 +114,21 @@ Use in code:
 ```
 const apiKey = import.meta.env.VITE_API_KEY;
 ```
-📸 Screenshots (Add Later)
-```
-/screenshots
- ├── home.png
- ├── trending.png
- └── coin-details.png
-```
+## 📸 Screenshots
+
+### 📊 Crypto Details Page
+<img src="IMAGE_URL_HERE" alt="Crypto Details Screenshot" width="700" />
+
+---
+
+### 🏠 Home Page (Example)
+<img src="IMAGE_URL_HERE" alt="Home Page Screenshot" width="700" />
+
+---
+
+### 📈 Trending Coins Section
+<img src="IMAGE_URL_HERE" alt="Trending Coins Screenshot" width="700" />
+
 🤝 Contributing
 
 Feel free to open issues or submit pull requests for improvements.
