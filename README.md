@@ -40,22 +40,22 @@ CryptoPlace/
 ```
 🚀 Features
 
-Live cryptocurrency price tracking
+• Live cryptocurrency price tracking
 
-Trending coins section
+• Trending coins section
 
-Responsive mobile-first design
+• Responsive mobile-first design
 
-Lightning-fast development using Vite
+• Lightning-fast development using Vite
 
-Modular & clean React architecture
+• Modular & clean React architecture
 
-Global state management via Context API
+• Global state management via Context API
 
-SEO-friendly static site deployment on Vercel
+• SEO-friendly static site deployment on Vercel
 
 🛠️ Tech Stack
-
+```
 Framework: React + Vite
 
 Styling: CSS / Tailwind (update if needed)
@@ -65,7 +65,7 @@ Language: JavaScript (ES6+)
 Deployment: Vercel
 
 API: CoinGecko / your chosen API
-
+```
 ⚙️ Local Development Setup
 
 1️⃣ Clone the Repository
