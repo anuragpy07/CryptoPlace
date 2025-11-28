@@ -134,6 +134,10 @@ Anurag Kumar
 Final-year student at IIIT Bhagalpur
 Passionate about Problem Solving, DSA, and Full-Stack Development.
 
-⭐ Support
+## ⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub!
+If you like this project, consider giving it a ⭐ on GitHub — it really helps!
+
+Also, feel free to **follow me on GitHub** for more projects and updates:
+👉 https://github.com/anuragpy07
+
