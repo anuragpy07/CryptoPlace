@@ -4,11 +4,7 @@
 </p>
 
 <br/>
-🪙 CryptoPlace
 <img width="1884" height="860" alt="Screenshot 2025-11-29 004849" src="https://github.com/user-attachments/assets/9d6d7e30-0b51-48bd-9b98-39b7dc3a8302" />
-
-A modern, high-performance cryptocurrency tracking web application built using Vite + React.
-CryptoPlace provides real-time crypto prices, trending coins, detailed pages, and a clean UI — all optimized for speed and scalability.
 
 📂 Project Structure
 ```bash
