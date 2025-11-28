@@ -37,7 +37,7 @@ CryptoPlace/
 ├── package-lock.json
 ├── LICENSE
 └── README.md
-
+```
 🚀 Features
 
 Live cryptocurrency price tracking
@@ -67,26 +67,29 @@ Deployment: Vercel
 API: CoinGecko / your chosen API
 
 ⚙️ Local Development Setup
+
 1️⃣ Clone the Repository
+```
 git clone https://github.com/yourusername/CryptoPlace.git
 cd CryptoPlace
-
+```
 2️⃣ Install Dependencies
+```
 npm install
-
+```
 3️⃣ Start Development Server
+```
 npm run dev
-
-
+```
 Runs at:
 👉 http://localhost:5173/
 
 📦 Production Build
 
 Generate an optimized production build:
-
+```
 npm run build
-
+```
 
 Vite outputs everything into the dist/ folder.
 
@@ -106,20 +109,21 @@ After pushing to GitHub → Vercel will auto-deploy.
 🔑 Environment Variables (Optional)
 
 If your app uses an API key, create a .env file:
-
+```
 VITE_API_KEY=your_api_key_here
-
+```
 
 Use in code:
-
+```
 const apiKey = import.meta.env.VITE_API_KEY;
-
+```
 📸 Screenshots (Add Later)
+```
 /screenshots
  ├── home.png
  ├── trending.png
  └── coin-details.png
-
+```
 🤝 Contributing
 
 Feel free to open issues or submit pull requests for improvements.
@@ -129,3 +133,7 @@ Feel free to open issues or submit pull requests for improvements.
 Anurag Kumar
 Final-year student at IIIT Bhagalpur
 Passionate about Problem Solving, DSA, and Full-Stack Development.
+
+⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
