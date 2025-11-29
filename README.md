@@ -138,7 +138,7 @@ Feel free to open issues or submit pull requests for improvements.
 
 Anurag Kumar
 Final-year student at IIIT Bhagalpur, India
-Passionate about Problem Solving, DSA, and Full-Stack Development.
+Passionate about quantitative finance, problem-solving, data structures and algorithms, and software engineering.
 
 ## ⭐ Support
 
