@@ -137,7 +137,7 @@ Feel free to open issues or submit pull requests for improvements.
 👨‍💻 Author
 
 Anurag Kumar
-Final-year student at IIIT Bhagalpur
+Final-year student at IIIT Bhagalpur, India
 Passionate about Problem Solving, DSA, and Full-Stack Development.
 
 ## ⭐ Support
