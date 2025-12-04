@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00C6FF&center=true&vCenter=true&width=900&lines=🪙+CryptoPlace;Your+Modern+Crypto+Tracking+Platform;Built+with+React+%2B+Vite;Fast%2C+Responsive%2C+and+Secure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=🪙+CryptoPlace" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=Your+Modern+Crypto+Tracking+Platform;Built+with+React+%2B+Vite;Fast%2C+Responsive%2C+and+Secure" />
 </p>
-
-<br/>
 
 📂 Project Structure
 ```bash
