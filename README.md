@@ -1,4 +1,5 @@
 <!-- Banner -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=🪙+CryptoPlace" />
   <br/>
